@@ -1,6 +1,11 @@
 So the idea is to create at least 10 projects utilziing various JSON API's. 
 
 I will list the projects with the title and description below:
+### [Indeed Job finder](http://plasx.github.io/json/indeed/index.html)
+
+Utilizing the Indeed API. Making json requests.
+
+* getJSON()
 
 
 ### [Movie Search](http://plasx.github.io/json/movieSearch/json.html)
